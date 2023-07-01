@@ -99,7 +99,9 @@ assimetria / curtose -> dá pra fazer com as distribuições
 regressão
 correlação
 
-## Ideias
+
+OLD OLD OLD
+## OLD Ideias
 
 * Roubar [desse cara](https://www.kaggle.com/code/gustavolatorresilva/eda-gc)
 
