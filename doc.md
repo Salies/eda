@@ -53,8 +53,6 @@ dataset de lobby:
 
 análise da variância e desvio padrão só de nível já tá bom pq senão o trabalho vira giga
 
-
-
 unidades para usar com as medidas estatísticas:
 - KPR
 - DPR
@@ -100,3 +98,41 @@ coeficiente de variação (foda-se)
 assimetria / curtose -> dá pra fazer com as distribuições
 regressão
 correlação
+
+## Ideias
+
+* Roubar [desse cara](https://www.kaggle.com/code/gustavolatorresilva/eda-gc)
+
+---
+
+* Win rate - nível / mapa
+* ou ainda, relação: quais mapas são mais jogados por nível
+* kda por nível -> interessante ver distribuição
+* survived por nível -> ver se níveis mais altos tendem a guardar mais
+* flash assist por nível
+* granada em geral por nível
+* granada por mapa -> quais mapas são táticos
+* hs por nível
+* tiros por nível
+* qtd. rounds por nível (ver se level mais baixo tende a ter mais stomp) - tentar ver se partidas de nível mais alto tendem a ser mais equilibradas
+
+---
+
+* distribuição de rating 2.0 (tem que calcular - pegar fórmula)
+* ADR por player -- vitória ou derrota por exemplo
+
+---
+* cruzar stats com derrota a vitória: ADR e rating acho que são bons
+
+---
+
+* fazer algumas descritivas: mapas, país de player, idade...
+* dá pra tirar umas medidas de idade também (média, mediana, desvio, distribuição, etc.)
+
+O que dá pra fazer com isso?
+
+* distribuição / assimetria
+* medidas que ele ensinou (a porra toda, igual o Voltera fez) -- a porra toda, mas n precisa ser de tudo. Ou seja, fazemos as relações primeiro, depois tiramos as medidas do que for mais importante, de preferência já agrupadas por players. Ex.: média de kill por player.
+* regressão com o que fizer sentido
+* correlação com o que puder
+* enfim, fazer as coisas que ele ensinou + algo a mais só pra humilhar a estatística (ex.: algum fit/regressão pica)
