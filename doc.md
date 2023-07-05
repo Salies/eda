@@ -24,8 +24,8 @@ mesmo sendo um jogo de time, porque os dados são por player
 ## Análise descritiva
 
 dataset de players:
-- players
-- distribuição de idade
+- ~~players~~
+- ~~distribuição de idade~~
 
 dataset de lobby:
 - distribuição de nível
