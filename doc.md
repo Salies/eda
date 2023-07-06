@@ -38,13 +38,10 @@ dataset de lobby:
 
 [essas porra tudo abaixo faz média, melhor]
 [colocar correlação em tudo que der - lembrar na hora de analisar que correlação não é causalidade]
-- clutch por nível (hipótese: nível mais alto é mais difícil fazer clutch)
-- mapa por nível (tentar tirar uma conclusão -- mapas mais antigos, mapas que requerem mais tática, mapas que PC de pobre não roda..)
-- KPR por nível (deve ser equilibrado, mas justificar)
+- mapa por nível OK (tentar tirar uma conclusão -- mapas mais antigos, mapas que requerem mais tática, mapas que PC de pobre não roda..)
 - DPR por nível (mesmo de cima)
 - utilitário por mapa (falar que mapas com mais utilitários tendem a ser mais táticos, etc. -- hipótese: inf muito mais que d2)
-- HS por nível
-- survived por nível
+
 
 - nível médio
 - moda de nível
@@ -60,6 +57,10 @@ unidades para usar com as medidas estatísticas:
 - Flash assist
 - Survived
 - Uso de utilitário
+
+INTERESSANTES
+
+
 
 ## Índices: rating 2.0
 
