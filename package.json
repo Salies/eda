@@ -1,0 +1,22 @@
+{
+  "name": "eda",
+  "version": "1.0.0",
+  "description": "Exploratory data analysis final assignment",
+  "main": "players_hltv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salies/eda.git"
+  },
+  "author": "Serezane, Voltera, Tomiasi, Santana, Becelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Salies/eda/issues"
+  },
+  "homepage": "https://github.com/Salies/eda#readme",
+  "dependencies": {
+    "jsdom": "^22.1.0"
+  }
+}
