@@ -4,7 +4,7 @@ import puppeteer from 'puppeteer';
 const file = fs.readFileSync("data/hltv/players_links.txt", "utf-8");
 const links = file.split("\n");
 
-const browser = await puppeteer.launch({headless: false});
+const browser = await puppeteer.launch({headless: 'new'});
 const page = await browser.newPage();
 page.setJavaScriptEnabled(false);
 
